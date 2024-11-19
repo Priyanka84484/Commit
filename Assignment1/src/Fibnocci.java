@@ -6,14 +6,6 @@ public class Fibnocci {
 		long first = 0,  second = 1;
 		System.out.println("Fibonacci Series :");
 		
-	//	if(a>=1) {
-		//	System.out.println(first + " ");
-	//	}
-		
-	//	if(a>=2) {
-		//	System.out.println(second + " ");
-	//	}
-		
 		for(int i=1; i<a; i++) {
 		 System.out.println(first + " ");
 		 long next = first + second;
