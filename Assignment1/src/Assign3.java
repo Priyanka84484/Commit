@@ -3,7 +3,7 @@ public class Assign3 {
 
 	public void Start() {
 	System.out.println("Solve this expression: (((((10*2)-2)-2)+2)/2)");
-	}
+ 	}
 	
 	public int multi(int a,int b) {
 		int c = a*b;
